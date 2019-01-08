@@ -13,15 +13,16 @@ body {
 
 img.a {
   width: 10%;
-  transform: rotate(90deg);
 }
 
 img.b {
   width: 25%;
-  transform: rotate(90deg);
 }
 
 img.c {
   width: 50%;
+}
+
+div.r90 {
   transform: rotate(90deg);
 }
