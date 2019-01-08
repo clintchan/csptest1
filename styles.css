@@ -10,3 +10,15 @@ p {
 body {
   background-color: green;
 }
+
+img.a {
+  width: 10%
+}
+
+img.b {
+  width: 25%
+}
+
+img.c {
+  width: 50%
+}
